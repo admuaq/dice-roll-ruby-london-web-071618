@@ -5,5 +5,5 @@
 def roll
   # code goes here
   number = [1,2,3,4,5,6]
-  return number.rand
+  return number.sample
 end
